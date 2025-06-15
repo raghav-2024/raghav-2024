@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-2024&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-2024" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghav-2024" alt="raghav-2024" /></a> </p>
+
 
 - 🔭 I’m currently working on **chat app**
 
