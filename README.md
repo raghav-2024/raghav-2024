@@ -20,8 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@s__raghav03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@s__raghav03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raghav bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghav bhardwaj" height="30" width="40" /></a>
-<a href="https://fb.com/raghav bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raghav bhardwaj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/raghav-bhardwaj-593950295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghav-bhardwaj-593950295/" height="30" width="40" /></a>
 <a href="https://instagram.com/raghavbhardwaj03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raghavbhardwaj03" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raghav-rb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raghav-rb" height="30" width="40" /></a>
 </p>
