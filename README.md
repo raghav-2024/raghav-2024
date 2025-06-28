@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **chat app**
+- 🔭 I’m currently working on **Real time white board sharing app**
 
 - 🌱 I’m currently learning **MERN Stack**
 
