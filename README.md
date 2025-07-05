@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Food delivery app**
 
-- 💬 Ask me about **MERN**
+
+- 💬 love to visit the **WORLD**
 
 - 📫 How to reach me **bhardwajraghav672@gmail.com**
 
