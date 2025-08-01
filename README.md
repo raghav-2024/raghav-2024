@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **Real time white board sharing app**
+- 🔭 I’m currently working on **WEATHER APP**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **DATA SCIENCE**
 
 
 
