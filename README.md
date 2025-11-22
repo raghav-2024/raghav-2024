@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **WEATHER APP**
+- 🔭 I’m currently working on **REAL ESTATE DATA SCIENCE PROJECT**
 
 - 🌱 I’m currently learning **DATA SCIENCE**
 
