@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghav Bhardwaj</h1>
-<h3 align="center">A passionate Full Stack developer from INDIA.</h3>
+<h3 align="center">I LOVE TO PLAY WITH DATA AND BUILDING MODELS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-2024&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-2024" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **REAL ESTATE DATA SCIENCE PROJECT**
 
-- 🌱 I’m currently learning **DATA SCIENCE**
+- 🌱 I’m currently learning **DATA SCIENCE MACHINE LEARNING**
 
 
 
